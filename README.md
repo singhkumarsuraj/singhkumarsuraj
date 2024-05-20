@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me surajkumarsinghsocial@gmail.com
 <!-- 😄 Pronouns:--> 
-- ⚡ Fun fact: -
+<!-- - ⚡ Fun fact: ---> 
 
 <!---
 singhkumarsuraj/singhkumarsuraj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
