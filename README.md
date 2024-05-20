@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Machine Learning Concepts.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me surajkumarsinghsocial@gmail.com
-- 😄 Pronouns: Mr.
+<!-- 😄 Pronouns:--> 
 - ⚡ Fun fact: -
 
 <!---
