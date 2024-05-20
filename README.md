@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning : **Machine Learning Concepts**
 - 💞️ I’m Compleated Summer Training from : **Modern Coach Factory**
 - 🚘 Final Year Project : **[Car Price Prediction](https://carpriceprediction2000102117.000webhostapp.com/)**
-- 📫 Reach me : **[Email](surajkumarsinghsocial@gmail.com)**
+- 📫 Reach me : **surajkumarsinghsocial@gmail.com**
 <!-- 😄 Pronouns:--> 
 <!-- - ⚡ Fun fact: ---> 
 
