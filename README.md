@@ -1,4 +1,4 @@
-- 👋 Hi, I’m **Suraj Kumar Singh**
+- 👋 Hi, I’m **Suraj Kumar Singh**, a **B.Tech** Graduate.
 - 👀 I’m interested in **PHP**
 - 🌱 I’m currently learning : **Machine Learning Concepts**
 - 💞️ I’m Compleated Summer Training from : **[Modern Coach Factory, Raebareli](https://drive.google.com/file/d/1EVQQJFlQH33ZVgt0l1Ot2hESZFeMocqF/view?usp=drive_link)**
