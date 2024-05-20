@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Suraj Kumar Singh.
-- 👀 I’m interested in Backend PHP.
+- 👀 I’m interested in PHP.
 - 🌱 I’m currently learning Machine Learning Concepts.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me surajkumarsinghsocial@gmail.com
