@@ -11,4 +11,4 @@
 singhkumarsuraj/singhkumarsuraj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![LeetCode Stats](https://leetcard.jacoblin.cool/suraj123_?site=cn)
+![LeetCode Stats](https://leetcard.jacoblin.cool/suraj_kumar_singh_2024?site=cn)
