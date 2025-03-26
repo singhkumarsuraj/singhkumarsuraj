@@ -13,6 +13,8 @@ You can click the Preview link to take a look at your changes.
 --->
 [![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat-square&logo=LeetCode&logoColor=white)](https://leetcode.com/singhkumarsuraj/)
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/suraj_kumar_singh_2024?theme=light&font=Arial)](https://leetcode.com/singhkumarsuraj/)
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/singhkumarsuraj?theme=light&font=Arial)](https://leetcode.com/singhkumarsuraj/)
+
 
 
