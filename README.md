@@ -12,5 +12,7 @@ singhkumarsuraj/singhkumarsuraj is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 [![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat-square&logo=LeetCode&logoColor=white)](https://leetcode.com/suraj_kumar_singh_2024/)
-[![LeetCode Stats](https://leetcard.jacoblin.cool/your-username?theme=light&font=Arial)](https://leetcode.com/suraj_kumar_singh_2024/)
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/suraj_kumar_singh_2024?theme=light&font=Arial)](https://leetcode.com/suraj_kumar_singh_2024/)
+
 
