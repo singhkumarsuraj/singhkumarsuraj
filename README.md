@@ -1,11 +1,13 @@
-## 💻 Introduction
+## 👨‍💻 Introduction
 
 - 👋 Hi, I’m **Suraj Kumar Singh**, a **B.Tech** Graduate in **[Computer Science & Engineering](https://www.iul.ac.in/)**.
 - 👀 I’m interested in **PHP**
 - 🌱 I’m currently learning : **Machine Learning Concepts**
-- 💞️ I’m Completed Summer Training from : **[Modern Coach Factory, Raebareli](https://drive.google.com/file/d/1EVQQJFlQH33ZVgt0l1Ot2hESZFeMocqF/view?usp=drive_link)**
+- 💞️ I’ve completed Summer Training from : **[Modern Coach Factory, Raebareli](https://drive.google.com/file/d/1EVQQJFlQH33ZVgt0l1Ot2hESZFeMocqF/view?usp=drive_link)**
 - 🚘 Final Year Project : **[Car Price Prediction](https://carpriceprediction2000102117.000webhostapp.com/)**
 - 📫 Contact : **surajkumarsinghsocial@gmail.com**
+
+---
 
 ## 💻 Programming Skills
 
@@ -33,7 +35,12 @@
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ### 📚 Core CS Concepts  
-•`Object-Oriented Programming` • `DBMS` • `Operating Systems` • `Computer Networks`
+• `Object-Oriented Programming` • `DBMS` • `Operating Systems` • `Computer Networks`
 
-## 💻 [![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat-square&logo=LeetCode&logoColor=white)](https://leetcode.com/singhkumarsuraj/)
+---
+
+## 🧠 LeetCode Profile
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/singhkumarsuraj/)
+  
 [![LeetCode Stats](https://leetcard.jacoblin.cool/singhkumarsuraj?theme=light&font=Arial)](https://leetcode.com/singhkumarsuraj/)
