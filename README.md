@@ -37,7 +37,11 @@
 ---
 
 ## 📚 Core CS Concepts  
-• `Object-Oriented Programming` • `DBMS` • `Operating Systems` • `Computer Networks` • `Computer Organization & Architecture` 
+• `Object-Oriented Programming` <br> 
+• `DBMS` <br> 
+• `Operating Systems` <br> 
+• `Computer Networks` <br> 
+• `Computer Organization & Architecture` <br> 
 • `Digital Logics`
 
 ---
