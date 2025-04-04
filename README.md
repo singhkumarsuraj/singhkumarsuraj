@@ -34,8 +34,10 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-### 📚 Core CS Concepts  
-• `Object-Oriented Programming` • `DBMS` • `Operating Systems` • `Computer Networks`
+---
+
+## 📚 Core CS Concepts  
+• `Object-Oriented Programming` • `DBMS` • `Operating Systems` • `Computer Networks` • `Computer Organization & Architecture`• `Digital Logics`
 
 ---
 
