@@ -40,6 +40,12 @@
 ---
 
 ## 🧠 LeetCode Profile
+## 💻 LeetCode
+
+<img src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgH..." alt="LeetCode Custom Logo" width="100" />
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/singhkumarsuraj?theme=light&font=Arial)](https://leetcode.com/singhkumarsuraj/)
+
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/singhkumarsuraj/)
   
