@@ -31,8 +31,7 @@
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ### 📚 Core CS Concepts  
-`Object-Oriented Programming` • `DBMS` • `Operating Systems` • `Computer Networks`
+•`Object-Oriented Programming` • `DBMS` • `Operating Systems` • `Computer Networks`
 
-
-[![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat-square&logo=LeetCode&logoColor=white)](https://leetcode.com/singhkumarsuraj/)
+## 💻 [![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat-square&logo=LeetCode&logoColor=white)](https://leetcode.com/singhkumarsuraj/)
 [![LeetCode Stats](https://leetcard.jacoblin.cool/singhkumarsuraj?theme=light&font=Arial)](https://leetcode.com/singhkumarsuraj/)
