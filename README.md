@@ -41,7 +41,7 @@
 
 ---
 
-## <img src="https://pathrise-website-guide-wp.s3.us-west-1.amazonaws.com/guides/wp-content/uploads/2019/05/10175228/images-11.png" alt="LeetCode Logo" height="30"> Leetcode Profile
+## <img src="https://pathrise-website-guide-wp.s3.us-west-1.amazonaws.com/guides/wp-content/uploads/2019/05/10175228/images-11.png" alt="LeetCode Logo" height="30"> Leetcode
 [![LeetCode Stats](https://leetcard.jacoblin.cool/singhkumarsuraj?theme=light&font=Arial)](https://leetcode.com/singhkumarsuraj/)
 
 ---
