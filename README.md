@@ -1,3 +1,5 @@
+## 💻 Introduction
+
 - 👋 Hi, I’m **Suraj Kumar Singh**, a **B.Tech** Graduate in **[Computer Science & Engineering](https://www.iul.ac.in/)**.
 - 👀 I’m interested in **PHP**
 - 🌱 I’m currently learning : **Machine Learning Concepts**
@@ -5,7 +7,7 @@
 - 🚘 Final Year Project : **[Car Price Prediction](https://carpriceprediction2000102117.000webhostapp.com/)**
 - 📫 Contact : **surajkumarsinghsocial@gmail.com**
 
-## 💻 Programming Skills:
+## 💻 Programming Skills
 
 ### 🧠 Programming Languages  
 ![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
